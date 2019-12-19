@@ -1,1 +1,5 @@
-issue changed in the local branch
+<<<<<<< HEAD
+issue 
+=======
+issue  changed in the master branch
+>>>>>>> 32f01cea6c4ec81d6a8fd993446e92c4bed596b5
