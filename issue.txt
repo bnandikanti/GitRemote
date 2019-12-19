@@ -1,3 +1,1 @@
-issue changed in the local branch
 issue 55
-issue master
