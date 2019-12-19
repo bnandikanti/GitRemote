@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-issue Conflict
-=======
-issue  changed in the master branch
->>>>>>> 32f01cea6c4ec81d6a8fd993446e92c4bed596b5
+issue changed in the local branch
+issue 55
+
